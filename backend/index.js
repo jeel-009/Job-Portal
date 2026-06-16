@@ -14,7 +14,7 @@ import applicationRoute from './routes/application.route.js'
 const app = express()
 
 const corsOptions = {
-    origin: "https://job-portal-6ihm.vercel.app",
+    origin: "https://job-portal-yxfm.vercel.app",
     credentials: true
 }
 
